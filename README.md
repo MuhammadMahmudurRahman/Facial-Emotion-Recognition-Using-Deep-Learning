@@ -1,2 +1,3 @@
-# Deep Learning
-A project in emotion detection using Convolutional Neural Networks (CNN).
+## Deep Learning Project
+
+### Emotion Detection Using Convolutional Neural Networks (CNN)
